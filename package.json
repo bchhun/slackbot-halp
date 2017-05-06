@@ -1,0 +1,9 @@
+{
+  "name": "slack-bot-halp",
+  "version": "0.0.1",
+  "description": "a /halp command that shows you who can help when you need it. /halp chef would list all your teammates who knows chef ordered by competency. Your teammates needs to be added in a local sqlite database.",
+  "main": "index.js",
+  "repository": "git@github.com:bchhun/slackbot-halp.git",
+  "author": "Bernard Chhun",
+  "license": "MIT"
+}
